@@ -1,4 +1,4 @@
-FROM node:10.15.0
+FROM node:12.4.0
 
 # Xvfb
 
