@@ -1,4 +1,4 @@
-FROM node:12.22.12
+FROM node:14.19.1
 
 # Xvfb
 
